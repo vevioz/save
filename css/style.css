@@ -2810,12 +2810,6 @@ p {
 margin-top: 0;
 margin-bottom: 0rem!important;
 }
-.card-body {
--ms-flex: 1 1 auto;
-flex: 1 1 auto;
-min-height: 1px;
-padding: 0.25rem!important;
-}
 p {
 margin-top: 0;
 margin-bottom: 0rem!important;
