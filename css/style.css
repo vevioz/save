@@ -2816,3 +2816,8 @@ padding-right: 1.25rem!important;
 margin-left: 15px!important;
 margin-right: 15px!important;
 }
+
+p {
+margin-top: 0;
+margin-bottom: 0.3rem!important;
+}
